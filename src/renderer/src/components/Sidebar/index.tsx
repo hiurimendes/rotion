@@ -44,7 +44,7 @@ export function Sidebar() {
           },
         )}
       >
-        {/* <Profile /> */}
+        <Profile />
         <Search />
 
         <Navigation.Root>
